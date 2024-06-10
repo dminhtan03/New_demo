@@ -1,0 +1,20 @@
+h2 {
+    text-align: center;
+}
+
+.product_table {
+    margin: 0px auto;
+}
+
+.product_table, .product_table tr, .product_table td, .product_table th {
+    border: 1px solid black;
+}
+
+.error {
+    color: red;
+    font-weight: bold
+}
+
+.product_table th {
+    padding: 0 20px
+}
